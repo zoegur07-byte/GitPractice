@@ -2,7 +2,7 @@
 print(" Hello Enter your  name: Zoe")
 
 #2
-print(" Hello Enter your adress: hasfira 11 pardes hana")
+print(" Hello Enter an animal: cat")
 
 
 
